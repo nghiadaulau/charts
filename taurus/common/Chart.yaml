@@ -29,3 +29,10 @@ maintainers:
   - name: Taurus Lead Team
     email: nhatnghiatyper@gmail.com
     url: https://github.com/nghiadaulau
+keywords:
+  - taurus
+  - awesome
+  - helm
+  - chart
+  - kubernetes
+home: https://github.com/nghiadaulau/charts/tree/production/taurus/common
